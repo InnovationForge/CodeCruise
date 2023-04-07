@@ -3,8 +3,20 @@ This repository gonna be a platform for exploring JavaSE concepts through mini c
 
 The `CodeCruise` project demonstrates 
 * Java SE 17 Developer Exam Number: 1Z0-829 
-* Learnings on how to execute JUnit Jupiter
-tests using Maven.
+* Learnings on how to execute JUnit Jupiter tests using Maven.
+
+## Module Details
+* `data-utils` - Handling date, time, text, numeric and boolean values
+* `control-flow-utils` - Controlling Program Flow
+* `oop-utils` - Utilizing Java Object-Oriented Approach
+* `exception-utils` - Handling Exceptions
+* `collection-utils` - Working with Arrays and Collections
+* `stream-utils` - Working with Streams and Lambda expressions
+* `deployment-utils` - Packaging and deploying Java code and use the Java Platform Module System
+* `concurrent-utils` - Managing concurrent code execution
+* `io-utils` - Using Java I/O API
+* `jdbc-accessor-utils` - Accessing databases using JDBC
+* `localization-utils` - Implementing Localization
 
 ## References
 * [Java SE 17 Developer Exam Syllabus: 1Z0-829](https://education.oracle.com/java-se-17-developer/pexam_1Z0-829)
