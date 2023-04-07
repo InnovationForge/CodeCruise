@@ -20,6 +20,7 @@
     <module>io-utils</module>
     <module>jdbc-accessor-utils</module>
     <module>localization-utils</module>
+    <module>concurrent-utils</module>
   </modules>
 
   <properties>
