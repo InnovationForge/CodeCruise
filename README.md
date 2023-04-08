@@ -1,5 +1,5 @@
 # CodeCruise
-This repository gonna be a platform for exploring JavaSE concepts through mini coding challenges. It could include a variety of Java coding exercises and puzzles designed to teach Java concepts in a fun and engaging way. The name "CodeCruise" suggests the idea of embarking on a journey of learning through coding challenges, while also hinting at the idea of exploration and adventure. This can be an innovative and exciting way to learn Java and create a supportive community for people interested in coding.
+This repository gonna be a platform for exploring JavaSE concepts through mini coding challenges. It could include a variety of Java coding exercises and puzzles designed to learn Java concepts in a fun and engaging way. The name "CodeCruise" suggests the idea of embarking on a journey of learning through coding challenges, while also hinting at the idea of exploration and adventure. This can be an innovative and exciting way to learn Java and create a supportive community for people interested in coding.
 
 The `CodeCruise` project demonstrates 
 * Java SE 17 Developer Exam Number: 1Z0-829 
