@@ -1,4 +1,4 @@
-package org.github.innovationforge;
+package com.github.innovationforge;
 
 /**
  * Hello world!
